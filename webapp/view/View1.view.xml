@@ -52,7 +52,7 @@
                                         width="auto"
                                     >
                                         <f:SimpleForm
-                                            id="supplierForm"
+                                            id="supplierForm1"
                                             layout="ResponsiveGridLayout"
                                             labelSpanXL="3"
                                             labelSpanL="3"
