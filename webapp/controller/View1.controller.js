@@ -306,7 +306,7 @@ sap.ui.define([
                 });
                 if (!this._fileUploadFragment) {
                     Fragment.load({
-                        name: "com.sap.supplierportal.view.fragment.FileUpload",
+                        name: "com.sap.supplierregistration.view.fragment.FileUpload",
                         id: this.getView().getId() + "-file-upload-dialog",
                         controller: this
                     })
